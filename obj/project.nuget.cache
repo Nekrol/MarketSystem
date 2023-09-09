@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgZAzE88ruHRb2NhCFFF5G4PQEDu4BDAtSC3RcqoE3/s3DP/8BZGY5aTbh3ud83Vaz4rBq4YonpP5htv/IAK1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C# projects\\ProductSite\\ProductSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlite\\7.0.10\\microsoft.data.sqlite.7.0.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.10\\microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
