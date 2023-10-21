@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vXycC/8ka5rMp2mOfnraA547TcmcQw6kVofL/Ipwmwk=",
+  "Hash": "x6IldZd5V2DiVQLBHZFtv5ziLlDt0tdLF3aGy5lkP4o=",
   "Source": "ProductSite",
   "BasePath": "_content/ProductSite",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Projects\\C# projects\\ProductSite\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProductSite.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Projects\\C# projects\\ProductSite\\wwwroot\\css\\ProductPageStyle.css",
+      "SourceId": "ProductSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\C# projects\\ProductSite\\wwwroot\\",
+      "BasePath": "_content/ProductSite",
+      "RelativePath": "css/ProductPageStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\ProductPageStyle.css"
     },
     {
       "Identity": "D:\\Projects\\C# projects\\ProductSite\\wwwroot\\css\\site.css",
