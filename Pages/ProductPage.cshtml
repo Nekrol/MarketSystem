@@ -31,15 +31,14 @@
 						
 						if(star==@Model.rate)
 						{
-							<input type="radio" asp-for="Star" id="Star@(star)" value="@star" checked/> 					 
+							<input type="radio" asp-for="Star" onkclick="this.form.submit()" id="Star@(star)" value="@star" checked/> 					 
 						}
 						else
 						{
-							<input type="radio" asp-for="Star" id="Star@(star)" value="@star"/> 
+							<input type="radio" asp-for="Star" onclick="this.form.submit()" id="Star@(star)" value="@star"/> 
 						}
 						<label for="Star@(star)" title="text">@star stars</label>
 					}
-					<input type ="submit"/>
 					
 				</div>
 				</form>
